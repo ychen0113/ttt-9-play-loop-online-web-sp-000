@@ -42,3 +42,4 @@ def play(board)
   turn(board)
   round += 1 
 end
+end
